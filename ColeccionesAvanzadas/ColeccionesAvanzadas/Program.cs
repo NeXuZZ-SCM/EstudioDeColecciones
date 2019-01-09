@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+//using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,6 +11,14 @@ namespace ColeccionesAvanzadas
         static void Main(string[] args)
         {
             Queue<Cliente> ejemplar = new Queue<Cliente>();
+
+            var nuevoCliente = new Cliente() { Nombre = "Juan", Edad = 21 };
+            var nuevoCliente2 = new Cliente() { Nombre = "Pedro", Edad = 33 };
+            ejemplar.Enqueue(nuevoCliente);
+            ejemplar.Enqueue(nuevoCliente2);
+
+            Console.WriteLine(ejemplar.Dequeue().Nombre);
+            Console.Read();
         }
     }
     public class Cliente
