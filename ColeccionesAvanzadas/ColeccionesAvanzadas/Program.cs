@@ -11,7 +11,6 @@ namespace ColeccionesAvanzadas
         static void Main(string[] args)
         {
 
-            PruebaPila();
 
             Console.Read();
         }
