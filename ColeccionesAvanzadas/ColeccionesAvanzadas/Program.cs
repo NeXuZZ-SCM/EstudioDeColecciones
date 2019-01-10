@@ -11,9 +11,19 @@ namespace ColeccionesAvanzadas
         static void Main(string[] args)
         {
 
+            PruebaPila();
+
             Console.Read();
         }
+        public static void PruebaPila()
+        {
+            Stack<Cliente> PilaCliente = new Stack<Cliente>();
+            var NuevoCliente = new Cliente() { Nombre = "Pedro", Edad = 32 };
+            PilaCliente.Push(NuevoCliente);
 
+
+            Console.WriteLine(PilaCliente.Pop().Nombre);
+        }
         public static void PruebaColas()
         {
             Queue<Cliente> ejemplar = new Queue<Cliente>();
