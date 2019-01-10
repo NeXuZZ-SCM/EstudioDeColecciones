@@ -18,6 +18,7 @@ namespace ColeccionesAvanzadas
             ejemplar.Enqueue(nuevoCliente2);
 
             Console.WriteLine(ejemplar.Dequeue().Nombre);
+            Console.WriteLine(ejemplar.Contains(nuevoCliente));
             Console.Read();
         }
     }
