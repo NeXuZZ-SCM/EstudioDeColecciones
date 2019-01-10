@@ -10,6 +10,12 @@ namespace ColeccionesAvanzadas
     {
         static void Main(string[] args)
         {
+
+            Console.Read();
+        }
+
+        public static void PruebaColas()
+        {
             Queue<Cliente> ejemplar = new Queue<Cliente>();
 
             var nuevoCliente = new Cliente() { Nombre = "Juan", Edad = 21 };
@@ -19,7 +25,6 @@ namespace ColeccionesAvanzadas
 
             Console.WriteLine(ejemplar.Dequeue().Nombre);
             Console.WriteLine(ejemplar.Contains(nuevoCliente));
-            Console.Read();
         }
     }
     public class Cliente
