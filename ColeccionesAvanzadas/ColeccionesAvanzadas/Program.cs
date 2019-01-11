@@ -10,7 +10,15 @@ namespace ColeccionesAvanzadas
     {
         static void Main(string[] args)
         {
+            Dictionary<int, Cliente> DiccionarioClientes = new Dictionary<int, Cliente>();
 
+            DiccionarioClientes.Add(1, new Cliente() { Nombre= "Cristian", Edad=30});
+            foreach (KeyValuePair<int, Cliente> item in DiccionarioClientes)
+            {
+                Console.WriteLine(item.Key);
+                Console.WriteLine(item.Value.Nombre);
+                Console.WriteLine(item.Value.Edad);
+            }
 
             Console.Read();
         }
