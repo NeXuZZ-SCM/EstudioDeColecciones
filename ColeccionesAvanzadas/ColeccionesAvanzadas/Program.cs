@@ -14,6 +14,13 @@ namespace ColeccionesAvanzadas
 
             Console.Read();
         }
+        public static void PruebaLista()
+        {
+            List<Cliente> listadoCliente = new List<Cliente>();
+
+            listadoCliente.Add(new Cliente { Nombre = "Pedro", Edad = 32 });
+            Console.WriteLine(listadoCliente[0].Nombre);
+        }
         public static void PruebaPila()
         {
             Stack<Cliente> PilaCliente = new Stack<Cliente>();
