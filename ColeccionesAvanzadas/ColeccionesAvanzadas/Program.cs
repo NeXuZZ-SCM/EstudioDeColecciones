@@ -10,26 +10,30 @@ namespace ColeccionesAvanzadas
     {
         static void Main(string[] args)
         {
+
+            Console.Read();
+        }
+
+        private static void PruebaDiccionario()
+        {
             Dictionary<int, Cliente> DiccionarioClientes = new Dictionary<int, Cliente>();
 
-            DiccionarioClientes.Add(1, new Cliente() { Nombre= "Cristian", Edad=30});
+            DiccionarioClientes.Add(1, new Cliente() { Nombre = "Cristian", Edad = 30 });
             foreach (KeyValuePair<int, Cliente> item in DiccionarioClientes)
             {
                 Console.WriteLine(item.Key);
                 Console.WriteLine(item.Value.Nombre);
                 Console.WriteLine(item.Value.Edad);
             }
-
-            Console.Read();
         }
-        public static void PruebaLista()
+        private static void PruebaLista()
         {
             List<Cliente> listadoCliente = new List<Cliente>();
 
             listadoCliente.Add(new Cliente { Nombre = "Pedro", Edad = 32 });
             Console.WriteLine(listadoCliente[0].Nombre);
         }
-        public static void PruebaPila()
+        private static void PruebaPila()
         {
             Stack<Cliente> PilaCliente = new Stack<Cliente>();
             var NuevoCliente = new Cliente() { Nombre = "Pedro", Edad = 32 };
@@ -38,7 +42,7 @@ namespace ColeccionesAvanzadas
 
             Console.WriteLine(PilaCliente.Pop().Nombre);
         }
-        public static void PruebaColas()
+        private static void PruebaColas()
         {
             Queue<Cliente> ejemplar = new Queue<Cliente>();
 
