@@ -7,8 +7,8 @@
 * Dicctionary
 * List
 
-Empleando objetos y tipos primitivos.
-:ar:
+Empleando objetos y tipos primitivos. :octopus:
+
 
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
