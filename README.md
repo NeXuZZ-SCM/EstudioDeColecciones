@@ -26,8 +26,8 @@ Empleando objetos y tipos primitivos.
 [![Blackhat Arsenal 2017](resources/replitN.png)](https://repl.it/@NeXuZZ_SCM) 
 
 
-### El programa es 100% gratis y libre para la comunidad.
-###### -> Apoyo a la FreeSoftware Fundation
+### El programa es :100: % gratis y libre para la comunidad. :gem:
+###### -> Apoyo a la FreeSoftware Fundation 
 ![alt text](gplv3-127x51.png) **Copyright (C) 2019 Cristian M. Sguazzin**
 
     Este programa es software libre: puedes redistribuirlo y / o modificarlo.
