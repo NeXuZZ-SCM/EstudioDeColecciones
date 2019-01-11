@@ -15,15 +15,15 @@ Empleando objetos y tipos primitivos. :octopus:
 
 >Los siguientes enlaces no se abrirán :boom: en otra pestaña :sweat_smile:, esta es una característica no soportada :sweat: por markedown ni por github  :sweat: ,  :question: quizá le convenga :smirk: dar clic derecho y luego en **| Abrir enlace en una pestaña nueva |** :grin:
 
-[![Blackhat Arsenal 2017](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  
-[![Blackhat Arsenal 2017](resources/emailN.png)](mailto:nexuzz@outlook.com)  
-[![Blackhat Arsenal 2017](resources/webNn.png)](https://nexuzz-scm.github.io/CristianMartinSguazzin/)  
-[![Blackhat Arsenal 2017](resources/instaNnN.png)](https://www.instagram.com/nexuzz_scm/)  
-[![Blackhat Arsenal 2017](resources/youtubeN.png)](https://www.youtube.com/channel/UCDDXY90tCmbU57J8J4-_T1w)  
-[![Blackhat Arsenal 2017](resources/facebookNn.png)](https://www.facebook.com/profile.php?id=100013497670595)  
-[![Blackhat Arsenal 2017](resources/twitterN.png)](https://twitter.com/NeXuZZ_scm)  
-[![Blackhat Arsenal 2017](resources/codepenNn.png)](https://codepen.io/NeXuZZ/)  
-[![Blackhat Arsenal 2017](resources/replitN.png)](https://repl.it/@NeXuZZ_SCM) 
+[![NeXuZZ](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  
+[![NeXuZZ](resources/emailN.png)](mailto:nexuzz@outlook.com)  
+[![NeXuZZ](resources/webNn.png)](https://nexuzz-scm.github.io/CristianMartinSguazzin/)  
+[![NeXuZZ](resources/instaNnN.png)](https://www.instagram.com/nexuzz_scm/)  
+[![NeXuZZ](resources/youtubeN.png)](https://www.youtube.com/channel/UCDDXY90tCmbU57J8J4-_T1w)  
+[![NeXuZZ](resources/facebookNn.png)](https://www.facebook.com/profile.php?id=100013497670595)  
+[![NeXuZZ](resources/twitterN.png)](https://twitter.com/NeXuZZ_scm)  
+[![NeXuZZ](resources/codepenNn.png)](https://codepen.io/NeXuZZ/)  
+[![NeXuZZ](resources/replitN.png)](https://repl.it/@NeXuZZ_SCM) 
 
 
 ### El programa es :100:% gratis y libre para la comunidad. :gem:
