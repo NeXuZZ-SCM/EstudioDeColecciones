@@ -12,8 +12,10 @@ Empleando objetos y tipos primitivos.
 
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
+
+>Los links no se abriran :boom: en otra ventana, esta es una caracteristica no soportada :sweat: por markedown como tampoco en github  :sweat: ,  :question: quiza le convenga :smirk: dar clic derecho y abrir en pestaña nueva :grin:
+
 [![Blackhat Arsenal 2017](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  
-<a href="https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/" target="_blank"><img src="resources/linkedinN.png" alt="Mi Linkedin ^_^"></a>
 [![Blackhat Arsenal 2017](resources/emailN.png)](mailto:nexuzz@outlook.com)  
 [![Blackhat Arsenal 2017](resources/webN.png)](https://nexuzz-scm.github.io/CristianMartinSguazzin/)  
 [![Blackhat Arsenal 2017](resources/instaNnN.png)](https://www.instagram.com/nexuzz_scm/)  
@@ -23,7 +25,6 @@ Empleando objetos y tipos primitivos.
 [![Blackhat Arsenal 2017](resources/codepenNn.png)](https://codepen.io/NeXuZZ/)  
 [![Blackhat Arsenal 2017](resources/replitN.png)](https://repl.it/@NeXuZZ_SCM) 
 
-<img href="img="resources/codepenNn.png><a href="http://example.com/" target="_blank" >example</a></img>
 
 ### El programa es 100% gratis y libre para la comunidad.
 ###### -> Apoyo a la FreeSoftware Fundation
