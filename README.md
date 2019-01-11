@@ -12,7 +12,7 @@ Empleando objetos y tipos primitivos.
 
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
-[![Blackhat Arsenal 2017](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  {:target="_blank"}
+[![Blackhat Arsenal 2017](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  
 <a href="https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/" target="_blank"><img src="resources/linkedinN.png" alt="Mi Linkedin ^_^"></a>
 [![Blackhat Arsenal 2017](resources/emailN.png)](mailto:nexuzz@outlook.com)  
 [![Blackhat Arsenal 2017](resources/webN.png)](https://nexuzz-scm.github.io/CristianMartinSguazzin/)  
