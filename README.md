@@ -1,5 +1,5 @@
 # Snippets - Practicas con colecciones avanzadas
-#### Este codigo tiene la finalidad de instruir en el uso de distintos tipos de colecciones.
+#### :white_check_mark:Este codigo tiene la finalidad de instruir en el uso de distintos tipos de colecciones.
 
 * Pilas
 * Colas
@@ -8,7 +8,7 @@
 * List
 
 Empleando objetos y tipos primitivos.
-
+:ar:
 
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
