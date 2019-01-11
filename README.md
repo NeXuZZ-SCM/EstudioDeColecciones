@@ -4,7 +4,7 @@
 * Pilas
 * Colas
 * HashSet
-* Dicctionary
+* Dictionary
 * List
 
 Empleando objetos y tipos primitivos. :octopus:
