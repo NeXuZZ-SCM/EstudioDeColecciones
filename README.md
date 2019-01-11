@@ -13,7 +13,7 @@ Empleando objetos y tipos primitivos.
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
 
->Los links no se abriran :boom: en otra pestaña, esta es una caracteristica no soportada :sweat: por markedown ni por github  :sweat: ,  :question: quiza le convenga :smirk: dar clic derecho y luego en |_Abrir enlace en una pestaña nueva_| :grin:
+>Los links no se abriran :boom: en otra pestaña, esta es una caracteristica no soportada :sweat: por markedown ni por github  :sweat: ,  :question: quiza le convenga :smirk: dar clic derecho y luego en | Abrir enlace en una pestaña nueva | :grin:
 
 [![Blackhat Arsenal 2017](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  
 [![Blackhat Arsenal 2017](resources/emailN.png)](mailto:nexuzz@outlook.com)  
