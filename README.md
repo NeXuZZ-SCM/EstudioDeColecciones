@@ -13,11 +13,11 @@ Empleando objetos y tipos primitivos. :octopus:
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
 
->Los links no se abrirán :boom: en otra pestaña, esta es una característica no soportada :sweat: por markedown ni por github  :sweat: ,  :question: quizá le convenga :smirk: dar clic derecho y luego en **| Abrir enlace en una pestaña nueva |** :grin:
+>Los siguientes enlaces no se abrirán :boom: en otra pestaña :sweat_smile:, esta es una característica no soportada :sweat: por markedown ni por github  :sweat: ,  :question: quizá le convenga :smirk: dar clic derecho y luego en **| Abrir enlace en una pestaña nueva |** :grin:
 
 [![Blackhat Arsenal 2017](resources/linkedinN.png)](https://www.linkedin.com/in/cristian-m-sguazzin-8a7b2483/)  
 [![Blackhat Arsenal 2017](resources/emailN.png)](mailto:nexuzz@outlook.com)  
-[![Blackhat Arsenal 2017](resources/webN.png)](https://nexuzz-scm.github.io/CristianMartinSguazzin/)  
+[![Blackhat Arsenal 2017](resources/webNn.png)](https://nexuzz-scm.github.io/CristianMartinSguazzin/)  
 [![Blackhat Arsenal 2017](resources/instaNnN.png)](https://www.instagram.com/nexuzz_scm/)  
 [![Blackhat Arsenal 2017](resources/youtubeN.png)](https://www.youtube.com/channel/UCDDXY90tCmbU57J8J4-_T1w)  
 [![Blackhat Arsenal 2017](resources/facebookNn.png)](https://www.facebook.com/profile.php?id=100013497670595)  
